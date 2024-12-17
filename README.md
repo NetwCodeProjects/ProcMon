@@ -86,13 +86,3 @@ ProcessBeacon is a lightweight service for monitoring when specific system proce
 
 ---
 
-### **Explanation of Intentions**
-
-#### **Audience Differences**
-
-The difference between the two guides is that the first guide uses simple language and avoids technical talk. Steps are broken into manageable chunks with clear instructions for each action. And Instructions guess that you have no prior experience with Windows PowerShell.
-
-For the Intermediate/Advanced Users the second guide assumes “Open PowerShell as Admin” doesn’t need to be explained as a step. The language here is more concise and focuses on **what** actions to perform rather than explaining how to do basic actions.
-
-#### What makes instructions “Good”: clarity, organization, adaptability, consistency, and accessibility. I minimize technical barriers by providing direct links to downloads and detailed troubleshooting steps
-
